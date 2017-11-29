@@ -32,7 +32,3 @@ MongoClient.connect("mongodb://localhost:27017/TodoApp", (err, db) => {
 
   //db.close();
 });
-
-// delete many with my name
-
-// find one and delete by id (pick one)
